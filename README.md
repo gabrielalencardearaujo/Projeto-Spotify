@@ -1,4 +1,5 @@
 Created for my Udemy classes.
 
-Just an exercise.
+Download file fontawesome and paste in root.
 
+Just an exercise.
